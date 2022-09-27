@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "7XANyqpL/TpAWyIV/TIJlj8lXz8knMJd1yKnYxt+TGk=",
+  "Hash": "D9ktVGEwn7EktSbpcBa5nzK4N3RD6qTJVcTRqJf1euI=",
   "Source": "SaleWebMVC",
   "BasePath": "_content/SaleWebMVC",
   "Mode": "Default",
@@ -236,6 +236,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Identity": "D:\\UdemyC#\\SaleWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-flatly.css",
+      "SourceId": "SaleWebMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\UdemyC#\\SaleWebMVC\\wwwroot\\",
+      "BasePath": "_content/SaleWebMVC",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-flatly.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-flatly.css"
     },
     {
       "Identity": "D:\\UdemyC#\\SaleWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
