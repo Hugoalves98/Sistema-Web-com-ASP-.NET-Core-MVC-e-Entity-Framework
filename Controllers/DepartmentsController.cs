@@ -22,6 +22,9 @@ namespace SaleWebMVC.Controllers
         // GET: Departments
         public async Task<IActionResult> Index()
         {
+              SeedingService seed = new SeedingService(_context);
+              seed.Seed();
+
               return View(await _context.Department.ToListAsync());
         }
 
