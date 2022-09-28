@@ -1,0 +1,47 @@
+﻿@model SaleWebMVC.Models.Seller
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div>
+    <h4>Seller</h4>
+        <hr/>
+        <dl class="dl-horizontal"> <!-- Lista os campos do obj-->
+            <dt> <!-- Mostra nome do campo -->
+            @Html.DisplayNameFor(model => model.Name)
+            </dt>
+            <dd> <!-- Mostra o valor do campo-->
+            @Html.DisplayFor(model => model.Name)
+            </dd>
+            <dt> <!-- Mostra nome do campo -->
+            @Html.DisplayNameFor(model => model.Email)
+            </dt>
+            <dd> <!-- Mostra o valor do campo-->
+            @Html.DisplayFor(model => model.Email)
+            </dd>
+            <dt> <!-- Mostra nome do campo -->
+            @Html.DisplayNameFor(model => model.BirthDate)
+            </dt>
+            <dd> <!-- Mostra o valor do campo-->
+            @Html.DisplayFor(model => model.BirthDate)
+            </dd>
+            <dt> <!-- Mostra nome do campo -->
+            @Html.DisplayNameFor(model => model.BaseSalary)
+            </dt>
+            <dd> <!-- Mostra o valor do campo-->
+            @Html.DisplayFor(model => model.BaseSalary)
+            </dd>
+            <dt> <!-- Mostra nome do campo -->
+            @Html.DisplayNameFor(model => model.Department)
+            </dt>
+            <dd> <!-- Mostra o valor do campo-->
+            @Html.DisplayFor(model => model.Department.Name)
+            </dd>
+        </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-default">Edit</a>
+    <a asp-action="Index">Voltar</a>
+</div>
