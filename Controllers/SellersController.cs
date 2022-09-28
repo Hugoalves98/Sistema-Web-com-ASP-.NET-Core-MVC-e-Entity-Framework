@@ -110,7 +110,7 @@ namespace SaleWebMVC.Controllers
                 return RedirectToAction(nameof(Error), new { message = e.Message });
             }
             /*
-             ou posso univer esses dois catch no super tipo
+             ou posso unir esses dois catch no super tipo
             catch (ApplicationException e)
             {
                 return RedirectToAction(nameof(Error), new { message = e.Message });
