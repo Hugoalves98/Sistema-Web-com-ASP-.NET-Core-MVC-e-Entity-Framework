@@ -20,7 +20,7 @@ namespace SaleWebMVC.Services
 
         public void Insert(Seller obj)
         {
-            obj.Department = _context.Department.First();
+            //obj.Department = _context.Department.First(); N precisa mais pq ta instanciado com departamento agr
             _context.Add(obj);
             _context.SaveChanges();
         }
