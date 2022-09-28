@@ -1,0 +1,47 @@
+﻿@model SaleWebMVC.Models.Seller
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<h3> Tem certeza que tu quer deletar lokao?</h3>
+
+<div>
+    <h4>Seller</h4>
+    <hr/>
+    <dl class="dl-horizontal"> <!-- Lista os campos do obj-->
+        <dt> <!-- Mostra nome do campo -->
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd> <!-- Mostra o valor do campo-->
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt> <!-- Mostra nome do campo -->
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+        <dd> <!-- Mostra o valor do campo-->
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+        <dt> <!-- Mostra nome do campo -->
+            @Html.DisplayNameFor(model => model.BirthDate)
+        </dt>
+        <dd> <!-- Mostra o valor do campo-->
+            @Html.DisplayFor(model => model.BirthDate)
+        </dd>
+        <dt> <!-- Mostra nome do campo -->
+            @Html.DisplayNameFor(model => model.BaseSalary)
+        </dt>
+        <dd> <!-- Mostra o valor do campo-->
+            @Html.DisplayFor(model => model.BaseSalary)
+        </dd>
+    </dl>
+
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id"/>
+        <input type="submit" value="Delete" class="btn btn=danger"/>
+        <a asp-action="Index">Aqui tu volta pra lista lerdao</a>
+    </form>
+</div>
+
