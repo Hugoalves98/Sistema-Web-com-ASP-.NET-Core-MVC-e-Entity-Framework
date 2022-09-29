@@ -6,6 +6,7 @@ using SaleWebMVC.Data;
 using SaleWebMVC.Services;
 
 
+
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddDbContext<SaleWebMVCContext>(options =>
