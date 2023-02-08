@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\UdemyC#\\SaleWebMVC\\SaleWebMVC.csproj": {}
+    "D:\\UdemyC#\\18ºMVC\\SaleWebMVC\\SaleWebMVC.csproj": {}
   },
   "projects": {
-    "D:\\UdemyC#\\SaleWebMVC\\SaleWebMVC.csproj": {
+    "D:\\UdemyC#\\18ºMVC\\SaleWebMVC\\SaleWebMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UdemyC#\\SaleWebMVC\\SaleWebMVC.csproj",
+        "projectUniqueName": "D:\\UdemyC#\\18ºMVC\\SaleWebMVC\\SaleWebMVC.csproj",
         "projectName": "SaleWebMVC",
-        "projectPath": "D:\\UdemyC#\\SaleWebMVC\\SaleWebMVC.csproj",
+        "projectPath": "D:\\UdemyC#\\18ºMVC\\SaleWebMVC\\SaleWebMVC.csproj",
         "packagesPath": "C:\\Users\\hugor\\.nuget\\packages\\",
-        "outputPath": "D:\\UdemyC#\\SaleWebMVC\\obj\\",
+        "outputPath": "D:\\UdemyC#\\18ºMVC\\SaleWebMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hugor\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -74,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -5,92 +5,93 @@ build_property.UsingMicrosoftNETSdkWeb = true
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SaleWebMVC
 build_property.RootNamespace = SaleWebMVC
-build_property.ProjectDir = D:\UdemyC#\SaleWebMVC\
+build_property.ProjectDir = D:\UdemyC#\18ºMVC\SaleWebMVC\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\UdemyC#\SaleWebMVC
+build_property.MSBuildProjectDirectory = D:\UdemyC#\18ºMVC\SaleWebMVC
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/UdemyC\#/SaleWebMVC/Views/Departments/Create.cshtml]
+[D:/UdemyC\#/18ºMVC/SaleWebMVC/Views/Departments/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UdemyC\#/SaleWebMVC/Views/Departments/Delete.cshtml]
+[D:/UdemyC\#/18ºMVC/SaleWebMVC/Views/Departments/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UdemyC\#/SaleWebMVC/Views/Departments/Details.cshtml]
+[D:/UdemyC\#/18ºMVC/SaleWebMVC/Views/Departments/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UdemyC\#/SaleWebMVC/Views/Departments/Edit.cshtml]
+[D:/UdemyC\#/18ºMVC/SaleWebMVC/Views/Departments/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UdemyC\#/SaleWebMVC/Views/Departments/Index.cshtml]
+[D:/UdemyC\#/18ºMVC/SaleWebMVC/Views/Departments/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UdemyC\#/SaleWebMVC/Views/Home/Index.cshtml]
+[D:/UdemyC\#/18ºMVC/SaleWebMVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UdemyC\#/SaleWebMVC/Views/Home/Privacy.cshtml]
+[D:/UdemyC\#/18ºMVC/SaleWebMVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UdemyC\#/SaleWebMVC/Views/SalesRecords/GroupingSearch.cshtml]
+[D:/UdemyC\#/18ºMVC/SaleWebMVC/Views/SalesRecords/GroupingSearch.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNSZWNvcmRzXEdyb3VwaW5nU2VhcmNoLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UdemyC\#/SaleWebMVC/Views/SalesRecords/Index.cshtml]
+[D:/UdemyC\#/18ºMVC/SaleWebMVC/Views/SalesRecords/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNSZWNvcmRzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UdemyC\#/SaleWebMVC/Views/SalesRecords/SimpleSearch.cshtml]
+[D:/UdemyC\#/18ºMVC/SaleWebMVC/Views/SalesRecords/SimpleSearch.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNSZWNvcmRzXFNpbXBsZVNlYXJjaC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UdemyC\#/SaleWebMVC/Views/Sellers/Create.cshtml]
+[D:/UdemyC\#/18ºMVC/SaleWebMVC/Views/Sellers/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VsbGVyc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UdemyC\#/SaleWebMVC/Views/Sellers/Delete.cshtml]
+[D:/UdemyC\#/18ºMVC/SaleWebMVC/Views/Sellers/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VsbGVyc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UdemyC\#/SaleWebMVC/Views/Sellers/Details.cshtml]
+[D:/UdemyC\#/18ºMVC/SaleWebMVC/Views/Sellers/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VsbGVyc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UdemyC\#/SaleWebMVC/Views/Sellers/Edit.cshtml]
+[D:/UdemyC\#/18ºMVC/SaleWebMVC/Views/Sellers/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VsbGVyc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UdemyC\#/SaleWebMVC/Views/Sellers/Index.cshtml]
+[D:/UdemyC\#/18ºMVC/SaleWebMVC/Views/Sellers/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VsbGVyc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UdemyC\#/SaleWebMVC/Views/Shared/Error.cshtml]
+[D:/UdemyC\#/18ºMVC/SaleWebMVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UdemyC\#/SaleWebMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/UdemyC\#/18ºMVC/SaleWebMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UdemyC\#/SaleWebMVC/Views/_ViewImports.cshtml]
+[D:/UdemyC\#/18ºMVC/SaleWebMVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UdemyC\#/SaleWebMVC/Views/_ViewStart.cshtml]
+[D:/UdemyC\#/18ºMVC/SaleWebMVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UdemyC\#/SaleWebMVC/Views/Shared/_Layout.cshtml]
+[D:/UdemyC\#/18ºMVC/SaleWebMVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-o0p6s3w21p

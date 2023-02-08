@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HPiLcowu9Bg3PEagVUIekMa3ZCjmJWa3QkNdtw3VAv1QRAvA0QlxPCLPY44skPv6mWFpStQnBgqAiOQgXo+K8g==",
+  "dgSpecHash": "hBtuS0/4QIAxL4QMolPaL2vikKAgRITn3qIAAnHazqM573tIWuIXxnd5Vt4jX9xjqEZ4q1zHTFTFjy+t4v7Bqg==",
   "success": true,
-  "projectFilePath": "D:\\UdemyC#\\SaleWebMVC\\SaleWebMVC.csproj",
+  "projectFilePath": "D:\\UdemyC#\\18ºMVC\\SaleWebMVC\\SaleWebMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hugor\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\hugor\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
